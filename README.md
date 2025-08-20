@@ -1,4 +1,4 @@
-# my_printf
+# MyPrintf
 
 Func realized on Nasm x86_64. My function is identical to the standard function **printf** (C).
 
@@ -35,5 +35,5 @@ The function is implemented in such a way that the minimum buffer size should be
 
 ## Comparing my function and the original one (main.c)
 
-![My picture](img/example.png)
+<img src="img/example.png" width="600">
 
